@@ -1,0 +1,29 @@
+Installing Method
+
+1) Numpy
+Numpy is a numerical computing package for mathematics, science, and engineering.
+Many data science packages use Numpy as a dependency.
+Command: pip install numpy
+
+2) Pandas
+Pandas visualizes and manipulates datatables. There are many functions that allow
+efficient manipulation for the preliminary steps of data analysis problems.
+Command: pip install pandas
+
+3) Statsmodel
+Statsmodels is a package for exploring data, estimating statistical models, and
+performing statistical tests. It include descriptive statistics, statistical 
+tests, plotting functions, and result statiscs.
+Command: pip install statsmodel
+
+4) Scipy
+Scipy is a general-purpose package for mathematics, science, and engineering and
+extends the base capapabilities of Numpy.
+Command: pip install scipy
+
+5) Jupyter
+It is used to create interactive notebook documents that can contain live code,
+equations, visualizations, media and other computational outputs. Jupyter Notebook
+is often used by programmers, data scientists and students to document and
+demonstrate coding workflows or simply experiment with code.
+Command: pip install jupyter
